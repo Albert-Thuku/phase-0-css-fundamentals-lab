@@ -25,15 +25,16 @@ figcaption{
   text-align: center;
 }
 
-p.Description{
-width: 800px;
-text-align: center;
-margin: auto;
-}
 
 #details div{
   float: left;
   background-color: aquamarine;
   text-align: center;
   width: 25%;
+}
+
+section#featured-property p{
+  width: 800px;
+  text-align: center;
+  margin: auto;
 }
